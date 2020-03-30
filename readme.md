@@ -1,3 +1,5 @@
+![coverage](https://gitlab.com/gitlab-org/gitlab-foss/badges/master/coverage.svg?job=coverage)
+
 This is a readme file.
 
 Updated from GL
